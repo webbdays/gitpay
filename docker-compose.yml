@@ -28,3 +28,4 @@ services:
       - .env
     image: postgres    
     network_mode: host
+
